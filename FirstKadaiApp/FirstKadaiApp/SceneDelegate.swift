@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  お試し
+//  FirstKadaiApp
 //
-//  Created by 森下大地 on 2020/08/09.
+//  Created by 森下大地 on 2020/08/12.
 //  Copyright © 2020 daichi.morishita. All rights reserved.
 //
 

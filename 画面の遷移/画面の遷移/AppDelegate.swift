@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  お試し
+//  画面の遷移
 //
-//  Created by 森下大地 on 2020/08/09.
+//  Created by 森下大地 on 2020/08/11.
 //  Copyright © 2020 daichi.morishita. All rights reserved.
 //
 
